@@ -1,7 +1,7 @@
 # ToDo App
 
 A ToDo app made with React that uses the localStorage property to save tasks.<br/>
-[https://my-movie-library-app.herokuapp.com/](https://my-movie-library-app.herokuapp.com/)
+[https://jm-todo-app.herokuapp.com/](https://jm-todo-app.herokuapp.com/)
 
 ### Installing
 
